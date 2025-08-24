@@ -22,7 +22,7 @@ fundamentales: +, -, /, *mod*, *fromEnum*, *toEnum*, *cos*, *fromIntegral*.**
 En cada uno de los links a continuación, se podrán visualizar los códigos de cada función, junto con la función main, **en donde se ejecutará** el código. Cada función tiene parámetros distintos, por lo que, después de cada link, **se proveerá una imagen junto con indicaciones para el correcto uso de las funciones.**
 
 
-[Función *rem_data* aquí](https://play.haskell.org/saved/ZyPpIO6D)
+- [Función *rem_data* aquí](https://play.haskell.org/saved/ZyPpIO6D)
 <br/>
 <br/>
 <img width="437" height="133" alt="image" src="https://github.com/user-attachments/assets/7c70f84d-1625-4730-a59c-9671694ff4bf" />
@@ -34,8 +34,10 @@ como se puede apreciar en la imagen. Luego de la lista (es decir, despúes de ce
 número, el cual será nuestro número inicial, es decir, cualquier número menor a este será eliminado. En el caso de la imágen, nuestro
 intérvalo será desde 4, por lo que cualquier número menor a este no será impreso. Ahora, se coloca otro espacio y otro número, el cual será
 nuestro número final, por lo que cualquier número mayor a este será eliminado. En el caso de la imágen, el número final será el 6, por lo que, en el caso de la lista de la imágen, se imprimirán todos los números entre 4 y 6.
+<br/>
+<br/>
 
-[Función *order_asc* aquí](https://play.haskell.org/saved/uaWXnl9G)
+- [Función *order_asc* aquí](https://play.haskell.org/saved/uaWXnl9G)
 <br/>
 <br/>
 <img width="475" height="88" alt="image" src="https://github.com/user-attachments/assets/bfd08073-8778-4f4d-99d9-34c702cc3fb8" />
@@ -44,9 +46,25 @@ nuestro número final, por lo que cualquier número mayor a este será eliminado
 Para el correcto uso de la función *order_asc*, se debe colocar la lista que queremos ordenar después de la función *order_asc*, mediante el uso de corchetes "[]", colocando dentro de los corchetes cuantos números quiera, colocando después de cada número una coma (,)
 como se puede apreciar en la imagen. La sálida de este código será la lista con los numeros mayores en las primeras posiciones, y de 
 ahí, colocar los menores.
+<br/>
+<br/>
 
-[Función *Transformación Discreta del Coseno* aquí](https://play.haskell.org/saved/nv9vKJdR)
-
+- [Función *Transformación Discreta del Coseno* aquí](https://play.haskell.org/saved/nv9vKJdR)
+<br/>
+<br/>
+<img width="506" height="114" alt="image" src="https://github.com/user-attachments/assets/dd58d379-af95-4e03-8010-cfc48a970d1f" />
+<br/>
+<br/>
+Para el correcto uso de la función *Transformación Discreta del Coseno*, primero, debemos cambiar la variable datos (identificable en la imagen como let datos =...) a la lista que querramos transformar, mediante el uso de corchetes "[]", colocando dentro de los corchetes cuantos números quiera, colocando después de cada número una coma (,)
+como se puede apreciar en la imagen. Esto sería todo, ya que la siguiente imagen solo define "resultado" como la evaluación de la función "transformadaCoseno" de la lista anteriormente definida, y la última línea se encarga de imprimir el resultado/valor de la variable "resultado".
+<br/>
+<br/>
 [Funciones matemáticas usando series numéricas aquí](https://play.haskell.org/saved/pLQRnV43)
+<br/>
+<br/>
+<img width="555" height="277" alt="image" src="https://github.com/user-attachments/assets/671610bd-1300-41e6-898f-e1c24f77670d" />
+<br/>
+<br/>
+En este código se encuentran las 3 funciones matemáticas requeridas para el problema, las cuales son: *Logaritmo natural*, *Coseno*, *Exponenciación*. Para el correcto uso de cada una
 
 
