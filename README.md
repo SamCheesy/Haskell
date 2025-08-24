@@ -2,8 +2,8 @@
 
   
 ## Índice:
--  1. **Descripción** [(ir aquí)](#1-descripción)
--  2. **Uso de funciones** [(ir aquí)](#2-uso-de-funciones)
+-1.**Descripción** [(ir aquí)](#1-descripción)
+-2.**Uso de funciones** [(ir aquí)](#2-uso-de-funciones)
 
 
 
