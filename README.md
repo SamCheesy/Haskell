@@ -1,6 +1,6 @@
 # Implementación de diversas funciones en Haskell
 
-### Autores: Adrían Botero y Samuel Ruidiaz, Ingenieros de Sistemas
+### Autores: Adrían Botero y Samuel Ruidiaz, *Ingenieros de Sistemas*
 
 <img width="200" height="400" alt="image" src="https://github.com/user-attachments/assets/f03849ec-0f87-40ec-9b5d-ea482f901219" />
 
