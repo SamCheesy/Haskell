@@ -92,10 +92,7 @@ A continuación, se presentan cada una de las funciones anteriormente mencionada
 
 <br/>
 
-<br/>
-
 ### *order_asc*
-
 
 <img width="495" height="293" alt="image" src="https://github.com/user-attachments/assets/cefa1196-71a0-4ee2-8d4c-5a76d7da3843" />
 
@@ -114,7 +111,6 @@ A continuación, se presentan cada una de las funciones anteriormente mencionada
 <img width="361" height="230" alt="image" src="https://github.com/user-attachments/assets/6d3013e8-ee04-49b3-b52c-dc0c010fff09" />
 
 <br/>
-<br/>
 
 ## *Transformación Discreta del Coseno*
 
@@ -125,5 +121,5 @@ A continuación, se presentan cada una de las funciones anteriormente mencionada
 <img width="1192" height="324" alt="image" src="https://github.com/user-attachments/assets/f0a397b6-b0c8-4a16-92b4-dba1f765ee91" />
 
 <br/>
-<br/>
+
 
