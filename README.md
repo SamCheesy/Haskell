@@ -6,6 +6,7 @@
 2. **Uso de funciones** [(ir aquí)](#2-uso-de-funciones)
 3. **Pruebas con resultados** [(ir aquí)](#3-resultados-de-pruebas-en-cada-función)
 4. **Problemas y soluciones en el desarrollo** [(ir aquí)](#4-problemas-y-soluciones-durante-el-desarrollo-del-proyecto)
+5. **Conclusiones** [(ir aquí)](#5-conclusiones)
 
 
 ## 1. Descripción
@@ -134,7 +135,7 @@ A continuación, se presentan cada una de las funciones anteriormente mencionada
 ## 4. Problemas y soluciones durante el desarrollo del proyecto
 
 >[!IMPORTANT]
->Cada problema planteado a continuación tendrá también su solución respectiva dentro del mismo texto.
+>**Cada problema planteado a continuación tendrá también su solución respectiva dentro del mismo texto.**
 
 <br/>
 
@@ -145,3 +146,8 @@ ante cada problema; pensar en qué posiblemente necesitáramos, funciones auxili
 - **Organización**: La organización también fue un factor determinante en nuestra eficacia, ya que, al no tener un plan establecido para la realización del proyecto, donde definieramos de manera temprana tiempos de realización, ni definieramos tempranamente partes correspondientes, terminamos haciendo buena parte del proyecto en un poco de desorden. La solución para esto fue, tras algo de tiempo perdido, comunicarnos entre sí el rol de cada uno, lo que cada uno estaba haciendo y lo que el otro debía realizar; también definir tiempos de realización de cada cosa e instrucciones para el otro que influyeran en la realización del proyecto.
 
 - **Carga académica**: Durante este tiempo, estuvimos presionados por quices y parciales universitarios, los cuales también consumían nuestro tiempo para dedicar al proyecto, ya que teníamos que estudiar, repasar notas, realizar ejercicios para afianzar nuestros conociemientos, etc. Todo esto terminó afectando nuestro rendimiento durante los últimos días. La solución para esto fue tener que distribuir muy bien nuestro tiempo para cada cosa: el tiempo de estudio, el tiempo de clase, el tiempo de trabajo en el proyecto, el tiempo de realización de otros trabajos pendientes, etc.
+
+<br/>
+<br/>
+
+## 5. Conclusiones
