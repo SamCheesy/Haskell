@@ -151,3 +151,4 @@ ante cada problema; pensar en qué posiblemente necesitáramos, funciones auxili
 <br/>
 
 ## 5. Conclusiones
+A pesar que el desarrollo de este proyecto fue algo ciertamente retador debido a las limitaciones establecidas para el mismo, aprendimos muchas cosas nuevas en el camino. Aprendimos que hay que ser más organizados a la hora de realizar proyectos, a analizar de una manera mucho más profunda distintas problemáticas lógicas, a pensar de una manera mucho más lógica y abstracta para enfrentar los problemas. Aprendimos que, a pesar de lo difíciles que puedan parecer las circunstancias, dentro de nosotros reside el poder de superar estos desafíos y ser capaces de avanzar frente a la adversidad. pero si nunca lo intentamos, si desfallecemos y caemos a mitad de cámino, nunca habremos sabido lo infinitos y capaces que somos, y aún más cuando se tiene a alguien a tu lado.
