@@ -82,6 +82,18 @@ A continuación, se presentan cada una de las funciones anteriormente mencionada
 
 <br/>
 
+### *rem_data*
+
+<img width="459" height="192" alt="image" src="https://github.com/user-attachments/assets/3347d2b5-0fab-4b70-868a-9f75bf7a165d" />
+
+<br/>
+
+<img width="118" height="83" alt="image" src="https://github.com/user-attachments/assets/ea0efd98-7e78-4538-9a63-f0a55ab10539" />
+
+<br/>
+
+<br/>
+
 ### *order_asc*
 
 
@@ -90,6 +102,9 @@ A continuación, se presentan cada una de las funciones anteriormente mencionada
 <br/>
 
 <img width="235" height="132" alt="image" src="https://github.com/user-attachments/assets/03acbe57-867b-47ae-a380-594fd731da7f" />
+
+<br/>
+
 
 
 
