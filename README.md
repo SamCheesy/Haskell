@@ -19,8 +19,8 @@ El objetivo de nuestro projecto es la implementación de las funciones *rem_data
 fundamentales: +, -, /, *mod*, *fromEnum*, *toEnum*, *cos*, *fromIntegral*.**  
 
 ## 2. Uso de funciones  
-[!NOTE]
-En cada uno de los links a continuación, se podrán visualizar los códigos de cada función, junto con la función main, **en donde se ejecutará** el código. Cada función tiene parámetros distintos, por lo que, después de cada link, **se proveerá una imagen junto con indicaciones para el correcto uso de las funciones.**
+> [!NOTE]
+> En cada uno de los links a continuación, se podrán visualizar los códigos de cada función, junto con la función main, **en donde se ejecutará** el código. Cada función tiene parámetros distintos, por lo que, después de cada link, **se proveerá una imagen junto con indicaciones para el correcto uso de las funciones.**
 
 
 - [Función *rem_data* aquí](https://play.haskell.org/saved/ZyPpIO6D)
