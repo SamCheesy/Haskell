@@ -65,7 +65,8 @@ como se puede apreciar en la imagen. Esto sería todo, ya que la siguiente image
 <img width="555" height="277" alt="image" src="https://github.com/user-attachments/assets/671610bd-1300-41e6-898f-e1c24f77670d" />
 <br/>
 <br/>
-En este código se encuentran las 3 funciones matemáticas requeridas para el problema, las cuales son: *Logaritmo natural*, *Coseno*, *Exponenciación*. Para el correcto uso de cada una, se tienen dos argumentos: El primer argumento es el valor para el cual se quiere apróximar la función. El segundo argumento es el número de términos de la serie para mejorar la precisión del resultado.
+En este código se encuentran las 3 funciones matemáticas requeridas para el problema, las cuales son: *Logaritmo natural*, *Coseno*, *Exponenciación*. Para el correcto uso de cada una, se tienen dos argumentos: El primer argumento es el valor para el cual se quiere apróximar la función. El segundo argumento es el número de términos de la serie para mejorar la precisión del resultado.<br/>
+
 > [!WARNING]
 > Entre más grande sea el valor del segundo argumento, más preciso sera el resultado. Sin embargo, cantidades muy grandes pueden afectar negativamente el rendimiento del programa.
  
