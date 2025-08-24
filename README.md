@@ -2,7 +2,7 @@
 
 ### Autores:
 
-<img width="100" height="300" alt="image" src="https://github.com/user-attachments/assets/f03849ec-0f87-40ec-9b5d-ea482f901219" />
+<img width="200" height="400" alt="image" src="https://github.com/user-attachments/assets/f03849ec-0f87-40ec-9b5d-ea482f901219" />
 <br/>
 Adrían Botero
 <br/><br/>
