@@ -133,3 +133,15 @@ A continuación, se presentan cada una de las funciones anteriormente mencionada
 
 ## 4. Problemas y soluciones durante el desarrollo del proyecto
 
+>[!IMPORTANT]
+>Cada problema planteado a continuación tendrá también su solución respectiva dentro del mismo texto.
+
+<br/>
+
+Los principales problemas que se presentaron mientras desarrollabamos el proyecto fueron: 
+- **El impedimento para usar otras funciones ya en Haskell aparte de las suministradas**: Esto gracias a que Haskell ya poseía muchas de las funciones necesarias para la realización de las distintas funciones, lo cual hubiera hecho el proceso mucho más eficiente debido a que no hubieramos tenido que crear manualmente lo que necesitaramos (o lo que creíamos que necesitabamos), y tener que pensar en la lógica de cada función, consumiendo así el tiempo y nuestra energía. La solución para esto fue pensar de manera lógica, abstracta y recursiva 
+ante cada problema; pensar en qué posiblemente necesitáramos, funciones auxiliares, la lógica detrás de cada recursión, etc. Fue un proceso complicado y exhaustivo; sin embargo, fue a su vez enriquecedor en conocimiento, lógica adquirida para resolver problemas desde otros puntos de vista y análisis de problemas.
+
+- **Organización**: La organización también fue un factor determinante en nuestra eficacia, ya que, al no tener un plan establecido para la realización del proyecto, donde definieramos de manera temprana tiempos de realización, ni definieramos tempranamente partes correspondientes, terminamos haciendo buena parte del proyecto en un poco de desorden. La solución para esto fue, tras algo de tiempo perdido, comunicarnos entre sí el rol de cada uno, lo que cada uno estaba haciendo y lo que el otro debía realizar; también definir tiempos de realización de cada cosa e instrucciones para el otro que influyeran en la realización del proyecto.
+
+- **Carga académica**: Durante este tiempo, estuvimos presionados por quices y parciales universitarios, los cuales también consumían nuestro tiempo para dedicar al proyecto, ya que teníamos que estudiar, repasar notas, realizar ejercicios para afianzar nuestros conociemientos, etc. Todo esto terminó afectando nuestro rendimiento durante los últimos días. La solución para esto fue tener que distribuir muy bien nuestro tiempo para cada cosa: el tiempo de estudio, el tiempo de clase, el tiempo de trabajo en el proyecto, el tiempo de realización de otros trabajos pendientes, etc.
