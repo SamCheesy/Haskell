@@ -54,9 +54,7 @@ ahí, colocar los menores.
 <br/>
 <br/>
 Para el correcto uso de la función *Transformación Discreta del Coseno*, primero, debemos cambiar la variable datos (identificable en la imagen como let datos =...) a la lista que querramos transformar, mediante el uso de corchetes "[]", colocando dentro de los corchetes cuantos números quiera, colocando después de cada número una coma (,)
-como se puede apreciar en la imagen. Esto sería todo, ya que la siguiente imagen solo define "resultado" como la evaluación de la función "transformadaCoseno" de la lista anteriormente definida, y la última línea se encarga de imprimir el resultado/valor de la variable "resultado".
-
-<br/>
+como se puede apreciar en la imagen. Esto sería todo, ya que la siguiente imagen solo define "resultado" como la evaluación de la función "transformadaCoseno" de la lista anteriormente definida, y la última línea se encarga de imprimir el resultado/valor de la variable "resultado".<br/>
 
 > [!NOTE]
 > Los valores resultantes de nuestra implementación de la *Transformación Discreta del Coseno* aplicada a cualquier lista pueden variar un poco de los valores "reales" esperados, ya que seran resultados apróximados.
