@@ -1,6 +1,6 @@
 # Implementacion de funciones con Haskell  
 ### 0. Autores
-![Adrían](../../Documents/Adrian.jpeg)
+![Adrían](C:/Users/Usuario/Documents/Adrian.jpeg)
 Adrián, Ing. de Sistemas.
 ![Samuel](https://ibb.co/B5LvSStW)
 Samuel, Ing. de Sistemas.
