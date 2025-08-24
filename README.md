@@ -1,7 +1,7 @@
 # Implementacion de funciones con Haskell  
 
   
-## Índice:
+## Índice
 
 1. **Descripción** [(ir aquí)](#1-descripción)
 2. **Uso de funciones** [(ir aquí)](#2-uso-de-funciones)
@@ -59,6 +59,7 @@ Para el correcto uso de la función *Transformación Discreta del Coseno*, prime
 como se puede apreciar en la imagen. Esto sería todo, ya que la siguiente imagen solo define "resultado" como la evaluación de la función "transformadaCoseno" de la lista anteriormente definida, y la última línea se encarga de imprimir el resultado/valor de la variable "resultado".
 <br/>
 <br/>
+
 - [Funciones matemáticas usando series numéricas aquí](https://play.haskell.org/saved/pLQRnV43)
 <br/>
 <br/>
