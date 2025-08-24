@@ -22,7 +22,12 @@ fundamentales: +, -, /, *mod*, *fromEnum*, *toEnum*, *cos*, *fromIntegral*.**
 En cada uno de los links a continuación, se podrán visualizar los códigos de cada función, junto con la función main, **en donde se ejecutará** el código. Cada función tiene parámetros distintos, por lo que, después de cada link, **se proveerá una imagen junto con indicaciones para el correcto uso de las funciones.**
 
 
-[Función *rem_data*](https://play.haskell.org/saved/mA5Oj7om)
+[Función *rem_data* aquí](https://play.haskell.org/saved/mA5Oj7om)
 
+[Función *order_asc* aquí](https://play.haskell.org/saved/uaWXnl9G)
+
+[Función *Transformación Discreta del Coseno* aquí](https://play.haskell.org/saved/nv9vKJdR)
+
+[Funciones matemáticas usando series numéricas aquí](https://play.haskell.org/saved/pLQRnV43)
 
 
