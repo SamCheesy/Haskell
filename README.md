@@ -1,14 +1,10 @@
 # Implementacion de funciones con Haskell  
-### 0. Autores
-<img width="100" height="300" style="border-radius: 10px" alt="image" src="https://github.com/user-attachments/assets/2d5fcbec-6c16-45b9-bd9d-59972f7bb6d3" />
-<br/><b>Adrián, Ing. de Sistemas.</b><br/><br/>
-<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/f6252f47-2b96-4d9d-a273-852a970f55a9" />
-<br/><b>Samuel, Ing. de Sistemas.</b>
+
   
 ## Índice:
-- 0.**Autores**
-- 1.**Descripción** [(ir aquí)](#1-descripción)
-- 2.**Uso de funciones** [(ir aquí)](#2-uso-de-funciones)
+
+1. **Descripción** [(ir aquí)](#1-descripción)
+2. **Uso de funciones** [(ir aquí)](#2-uso-de-funciones)
 
 
 
