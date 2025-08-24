@@ -73,7 +73,7 @@ En este código se encuentran las 3 funciones matemáticas requeridas para el pr
 > Entre más grande sea el valor del segundo argumento, más preciso sera el resultado. Sin embargo, **cantidades muy grandes pueden afectar negativamente el rendimiento del programa.** 
 
 ## 3. Resultados de pruebas en cada función
-A continuación, se presentan cada una de las funciones anteriormente mencionadas siendo probadas con distintos valores para asegurar su correcto funcionamiento frente a cualquier situación.
+A continuación, se presentan cada una de las funciones anteriormente mencionadas siendo probadas con distintos valores para asegurar su correcto funcionamiento frente a distintas situaciones.
 
 <br/>
 
@@ -105,7 +105,25 @@ A continuación, se presentan cada una de las funciones anteriormente mencionada
 
 <br/>
 
+## *exponenciación*, *logaritmo natural* *coseno*
 
+<img width="551" height="285" alt="image" src="https://github.com/user-attachments/assets/f0602469-202c-4b81-a4e3-127c9ffe2c8f" />
 
+<br/>
 
+<img width="361" height="230" alt="image" src="https://github.com/user-attachments/assets/6d3013e8-ee04-49b3-b52c-dc0c010fff09" />
+
+<br/>
+<br/>
+
+## *Transformación Discreta del Coseno*
+
+<img width="701" height="483" alt="image" src="https://github.com/user-attachments/assets/154b3edf-2df2-463e-9bbc-70bd51572cd8" />
+
+<br/>
+
+<img width="1192" height="324" alt="image" src="https://github.com/user-attachments/assets/f0a397b6-b0c8-4a16-92b4-dba1f765ee91" />
+
+<br/>
+<br/>
 
