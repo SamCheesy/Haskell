@@ -2,7 +2,7 @@
 
   
 ## Índice:
-- ### 1. **Descripción** [(ir aquí)](#1_Descripción)
+- ### 1. **Descripción** [(ir aquí)](#1-descripción)
 - ### 2.
 
 
