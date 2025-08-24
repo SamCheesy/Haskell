@@ -4,11 +4,11 @@
 
 <img width="200" height="400" alt="image" src="https://github.com/user-attachments/assets/f03849ec-0f87-40ec-9b5d-ea482f901219" />
 <br/>
-Adrían Botero
+**Adrían Botero, *Ingeniero de Sistemas***
 <br/><br/>
 <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/0840fd57-acbb-41ac-bb5e-0af4e164e516" />
 <br/>
-Samuel Ruidiaz
+**Samuel Ruidiaz, *Ingeniero de Sistemas***
 <br/><br/>
 
 
