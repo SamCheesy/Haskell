@@ -76,7 +76,7 @@ A continuación, se presentan cada una de las funciones anteriormente mencionada
 
 <br/>
 
-> [!IMPORANT]
+> [!IMPORTANT]
 > **La primera imagen muestra las pruebas realizadas al código mencionado**, y **la segunda muestra el output/salida de cada evaluación secuencialmente.** Cada prueba realizada al código tiene un comentario que indica exactamente qué se está evaluando.
 
 <br/>
