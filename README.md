@@ -5,7 +5,7 @@
 
 1. **Descripción** [(ir aquí)](#1-descripción)
 2. **Uso de funciones** [(ir aquí)](#2-uso-de-funciones)
-
+3. **Pruebas con resultados** [(ir aquí)](#3-resultados-de-pruebas-en-cada-función)
 
 
 ## 1. Descripción
@@ -62,7 +62,8 @@ como se puede apreciar en la imagen. Esto sería todo, ya que la siguiente image
 - [Funciones matemáticas usando series numéricas aquí](https://play.haskell.org/saved/pLQRnV43)
 <br/>
 <br/>
-<img width="555" height="277" alt="image" src="https://github.com/user-attachments/assets/671610bd-1300-41e6-898f-e1c24f77670d" />
+<img width="490" height="87" alt="image" src="https://github.com/user-attachments/assets/c8176325-c7ab-4b34-8344-e6bfbd7708dd" />
+
 <br/>
 <br/>
 
@@ -70,7 +71,6 @@ En este código se encuentran las 3 funciones matemáticas requeridas para el pr
 <br/>
 
 > [!WARNING]
-> Entre más grande sea el valor del segundo argumento, más preciso sera el resultado. Sin embargo, cantidades muy grandes pueden afectar negativamente el rendimiento del programa.
- 
+> Entre más grande sea el valor del segundo argumento, más preciso sera el resultado. Sin embargo, **cantidades muy grandes pueden afectar negativamente el rendimiento del programa.** 
 
-
+## 3. Resultados de pruebas en cada función
