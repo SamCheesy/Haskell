@@ -24,16 +24,26 @@ En cada uno de los links a continuación, se podrán visualizar los códigos de 
 
 [Función *rem_data* aquí](https://play.haskell.org/saved/ZyPpIO6D)
 <br/>
+<br/>
 <img width="437" height="133" alt="image" src="https://github.com/user-attachments/assets/7c70f84d-1625-4730-a59c-9671694ff4bf" />
 <br/>
-Para el correcto funcionamiento de este código *rem_data*, se debe colocar la lista a evaluar despues de la función *rem_data*,
+<br/>
+Para el correcto uso de este código *rem_data*, se debe colocar la lista a evaluar despues de la función *rem_data*,
 mediante el uso de corchetes "[]", colocando dentro de los corchetes cuantos números quiera, colocando después de cada número una coma (,)
-como se puede apreciar en la imágen. Luego de la lista (es decir, despúes de cerrar corchetes) se debe colocar un espacio, y luego un
+como se puede apreciar en la imagen. Luego de la lista (es decir, despúes de cerrar corchetes) se debe colocar un espacio, y luego un
 número, el cual será nuestro número inicial, es decir, cualquier número menor a este será eliminado. En el caso de la imágen, nuestro
 intérvalo será desde 4, por lo que cualquier número menor a este no será impreso. Ahora, se coloca otro espacio y otro número, el cual será
 nuestro número final, por lo que cualquier número mayor a este será eliminado. En el caso de la imágen, el número final será el 6, por lo que, en el caso de la lista de la imágen, se imprimirán todos los números entre 4 y 6.
 
 [Función *order_asc* aquí](https://play.haskell.org/saved/uaWXnl9G)
+<br/>
+<br/>
+<img width="475" height="88" alt="image" src="https://github.com/user-attachments/assets/bfd08073-8778-4f4d-99d9-34c702cc3fb8" />
+<br/>
+<br/>
+Para el correcto uso de la función *order_asc*, se debe colocar la lista que queremos ordenar después de la función *order_asc*, mediante el uso de corchetes "[]", colocando dentro de los corchetes cuantos números quiera, colocando después de cada número una coma (,)
+como se puede apreciar en la imagen. La sálida de este código será la lista con los numeros mayores en las primeras posiciones, y de 
+ahí, colocar los menores.
 
 [Función *Transformación Discreta del Coseno* aquí](https://play.haskell.org/saved/nv9vKJdR)
 
