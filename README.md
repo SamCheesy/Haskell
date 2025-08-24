@@ -1,6 +1,4 @@
-<img width="490" height="87" alt="image" src="https://github.com/user-attachments/assets/2454ef39-a91d-4c57-b846-09ca320a8f50" /># Implementacion de funciones con Haskell  
 
-  
 ## Índice
 
 1. **Descripción** [(ir aquí)](#1-descripción)
@@ -77,10 +75,12 @@ En este código se encuentran las 3 funciones matemáticas requeridas para el pr
 A continuación, se presentan cada una de las funciones anteriormente mencionadas siendo probadas con distintos valores para asegurar su correcto funcionamiento frente a cualquier situación.
 
 <br/>
-<br/>
 
 > [!NOTE]
 > La primera imagen muestra las pruebas realizadas al código mencionado, y la segunda muestra el output/salida de cada evaluación secuencialmente. Cada prueba realizada al código tiene un comentario que indica exactamente qué se está evaluando.
+
+<br/>
+<br/>
 
 ### *order_asc*
 
