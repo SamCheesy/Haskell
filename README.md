@@ -21,8 +21,6 @@ fundamentales: +, -, /, *mod*, *fromEnum*, *toEnum*, *cos*, *fromIntegral*.**
 ## 2. Uso de funciones  
 > [!NOTE]
 > En cada uno de los links a continuación, se podrán visualizar los códigos de cada función, junto con la función main, **en donde se ejecutará** el código. Cada función tiene parámetros distintos, por lo que, después de cada link, **se proveerá una imagen junto con indicaciones para el correcto uso de las funciones.**
-
-
 - [Función *rem_data* aquí](https://play.haskell.org/saved/ZyPpIO6D)
 <br/>
 <br/>
@@ -67,6 +65,9 @@ como se puede apreciar en la imagen. Esto sería todo, ya que la siguiente image
 <img width="555" height="277" alt="image" src="https://github.com/user-attachments/assets/671610bd-1300-41e6-898f-e1c24f77670d" />
 <br/>
 <br/>
-En este código se encuentran las 3 funciones matemáticas requeridas para el problema, las cuales son: *Logaritmo natural*, *Coseno*, *Exponenciación*. Para el correcto uso de cada una
+En este código se encuentran las 3 funciones matemáticas requeridas para el problema, las cuales son: *Logaritmo natural*, *Coseno*, *Exponenciación*. Para el correcto uso de cada una, se tienen dos argumentos: El primer argumento es el valor para el cual se quiere apróximar la función. El segundo argumento es el número de términos de la serie para mejorar la precisión del resultado.
+> [!WARNING]
+> Entre más grande sea el valor del segundo argumento, más preciso sera el resultado. Sin embargo, cantidades muy grandes pueden afectar negativamente el rendimiento del programa.
+ 
 
 
