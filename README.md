@@ -1,4 +1,4 @@
-# Implementacion de funciones con Haskell  
+<img width="490" height="87" alt="image" src="https://github.com/user-attachments/assets/2454ef39-a91d-4c57-b846-09ca320a8f50" /># Implementacion de funciones con Haskell  
 
   
 ## Índice
@@ -36,7 +36,7 @@ nuestro número final, por lo que cualquier número mayor a este será eliminado
 <br/>
 <br/>
 
-- [Función *order_asc* aquí](https://play.haskell.org/saved/uaWXnl9G)
+- [Función *order_asc* aquí](https://play.haskell.org/saved/EBe07v6z)
 <br/>
 <br/>
 <img width="475" height="88" alt="image" src="https://github.com/user-attachments/assets/bfd08073-8778-4f4d-99d9-34c702cc3fb8" />
@@ -74,3 +74,18 @@ En este código se encuentran las 3 funciones matemáticas requeridas para el pr
 > Entre más grande sea el valor del segundo argumento, más preciso sera el resultado. Sin embargo, **cantidades muy grandes pueden afectar negativamente el rendimiento del programa.** 
 
 ## 3. Resultados de pruebas en cada función
+A continuación, se presentan cada una de las funciones anteriormente mencionadas siendo probadas con distintos valores para asegurar su correcto funcionamiento frente a cualquier situación.
+
+<br/>
+<br/>
+
+> [!NOTE]
+> La primera imagen muestra las pruebas realizadas al código mencionado, y la segunda muestra el output/salida de cada evaluación secuencialmente. Cada prueba realizada al código tiene un comentario que indica exactamente qué se está evaluando.
+
+### *order_asc*
+
+
+<img width="495" height="293" alt="image" src="https://github.com/user-attachments/assets/cefa1196-71a0-4ee2-8d4c-5a76d7da3843" />
+
+
+
