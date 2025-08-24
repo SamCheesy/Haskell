@@ -3,7 +3,7 @@
   
 ## Índice:
 - ### 1. **Descripción** [(ir aquí)](#1-descripción)
-- ### 2.
+- ### 2. **Uso de funciones** [(ir aquí)](#2-uso-de-funciones)
 
 
 
@@ -16,3 +16,7 @@ debe al lógico estadounidense Haskell Curry, debido a su aporte al cálculo lam
 El objetivo de nuestro projecto es la implementación de las funciones *rem_data*, *order_asc*, *exponential function*, *cosine function*, *natural logarithm*, y 
 *discrete cosine transform (DCT)*, **mediante el uso del lenguaje de programación Haskell**. Para la realización de estas funciones, **no hicimos uso de funciones fuera de las 
 fundamentales: +, -, /, *mod*, *fromEnum*, *toEnum*, *cos*, *fromIntegral*.**  
+
+## 2. Uso de funciones  
+### Utilizar el playground de Haskell
+
