@@ -1,5 +1,4 @@
-# Implementacion de funciones con Haskell
-\
+# Implementacion de funciones con Haskell\
 ## Índice:
 ### 1. **Descripción** [(ir aquí)](#1descripción)
 ### 2.
