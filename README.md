@@ -77,15 +77,16 @@ A continuación, se presentan cada una de las funciones anteriormente mencionada
 <br/>
 
 > [!NOTE]
-> La primera imagen muestra las pruebas realizadas al código mencionado, y la segunda muestra el output/salida de cada evaluación secuencialmente. Cada prueba realizada al código tiene un comentario que indica exactamente qué se está evaluando.
+> **La primera imagen muestra las pruebas realizadas al código mencionado**, y **la segunda muestra el output/salida de cada evaluación secuencialmente.** Cada prueba realizada al código tiene un comentario que indica exactamente qué se está evaluando.
 
-<br/>
 <br/>
 
 ### *order_asc*
 
 
 <img width="495" height="293" alt="image" src="https://github.com/user-attachments/assets/cefa1196-71a0-4ee2-8d4c-5a76d7da3843" />
+<img width="235" height="132" alt="image" src="https://github.com/user-attachments/assets/03acbe57-867b-47ae-a380-594fd731da7f" />
+
 
 
 
