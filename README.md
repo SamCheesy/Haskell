@@ -1,8 +1,8 @@
 # Implementacion de funciones con Haskell  
 ### 0. Autores
-<img width="590" height="787" alt="image" src="https://github.com/user-attachments/assets/2d5fcbec-6c16-45b9-bd9d-59972f7bb6d3" />
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/2d5fcbec-6c16-45b9-bd9d-59972f7bb6d3" />
 Adrián, Ing. de Sistemas.
-![Samuel](https://ibb.co/B5LvSStW)
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/f6252f47-2b96-4d9d-a273-852a970f55a9" />
 Samuel, Ing. de Sistemas.
   
 ## Índice:
