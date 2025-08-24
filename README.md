@@ -1,7 +1,7 @@
 # Implementacion de funciones con Haskell
 
 ## Índice:
-### 1.[Descripción](#1descripción)
+### 1. Descripción[(ir aquí)](#1descripción)
 
 
 
