@@ -24,7 +24,7 @@ En cada uno de los links a continuación, se podrán visualizar los códigos de 
 
 [Función *rem_data* aquí](https://play.haskell.org/saved/ZyPpIO6D)
 <img width="437" height="133" alt="image" src="https://github.com/user-attachments/assets/7c70f84d-1625-4730-a59c-9671694ff4bf" />
-<br/>
+
 Para el correcto funcionamiento de este código *rem_data*, se debe colocar la lista a evaluar despues de la función *rem_data*,
 mediante el uso de corchetes "[]", colocando dentro de los corchetes cuantos números quiera, colocando después de cada número una coma (,)
 como se puede apreciar en la imágen. Luego de la lista (es decir, despúes de cerrar corchetes) se debe colocar un espacio, y luego un
