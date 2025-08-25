@@ -61,9 +61,9 @@ Ahora, se coloca otro espacio y otro número, el cual será nuestro número fina
 <img width="475" height="88" alt="image" src="https://github.com/user-attachments/assets/bfd08073-8778-4f4d-99d9-34c702cc3fb8" />
 <br/><br/>
 
-Para el correcto uso de la función *order_asc*, se debe colocar la lista que queremos ordenar después de la función *order_asc*, mediante el uso de corchetes "[]", colocando dentro de los corchetes cuantos números quiera, colocando después de cada número una coma (,), como se puede apreciar en la imagen.  
+Para el correcto uso de la función *order_asc*, **se debe colocar la lista que queremos ordenar después de la función *order_asc*, mediante el uso de corchetes "[]",** **colocando dentro de los corchetes cuantos números quiera, colocando después de cada número una coma (,),** como se puede apreciar en la imagen.  
 
-La *salida* de este código será la lista con los números **mayores en las primeras posiciones**, y de ahí colocar los menores.
+La *salida* de este código será la lista con los números **mayores en las primeras posiciones**, y de ahí colocar los menores secuencialmente.
 
 <br/><br/>
 
@@ -73,14 +73,14 @@ La *salida* de este código será la lista con los números **mayores en las pri
 <img width="506" height="114" alt="image" src="https://github.com/user-attachments/assets/dd58d379-af95-4e03-8010-cfc48a970d1f" />
 <br/><br/>
 
-Para el correcto uso de la función *Transformación Discreta del Coseno*, primero debemos cambiar la variable `datos` (identificable en la imagen como `let datos = ...`) a la lista que queramos transformar, mediante el uso de corchetes "[]", colocando dentro de los corchetes cuantos números quiera, colocando después de cada número una coma (,), como se puede apreciar en la imagen.  
+Para el correcto uso de la función *Transformación Discreta del Coseno*, **primero debemos cambiar la variable `datos` (identificable en la imagen como `let datos = ...`) a la lista que queramos transformar, mediante el uso de corchetes "[]",** **colocando dentro de los corchetes cuantos números quiera, colocando después de cada número una coma (,),** como se puede apreciar en la imagen.  
 
-Esto sería todo, ya que la siguiente imagen solo define `resultado` como la evaluación de la función `transformadaCoseno` de la lista anteriormente definida, y la última línea se encarga de imprimir el resultado/valor de la variable `resultado`.
+**Esto sería todo, ya que la siguiente imagen solo define `resultado` como la evaluación de la función `transformadaCoseno` de la lista anteriormente definida,** y la última línea se encarga de imprimir el resultado/valor de la variable `resultado`.
 
 <br/>
 
 > [!NOTE]  
-> Los valores resultantes de nuestra implementación de la *Transformación Discreta del Coseno* aplicada a cualquier lista pueden variar un poco de los valores "reales" esperados, ya que serán resultados *aproximados*.
+> Los valores resultantes de nuestra implementación de la *Transformación Discreta del Coseno* aplicada a cualquier lista **pueden variar un poco de los valores "reales" esperados, ya que serán resultados *aproximados*.**
 
 <br/><br/>
 
@@ -93,8 +93,8 @@ Esto sería todo, ya que la siguiente imagen solo define `resultado` como la eva
 En este código se encuentran las 3 funciones matemáticas requeridas para el problema, las cuales son: *Logaritmo natural*, *Coseno*, *Exponenciación*.  
 
 Para el correcto uso de cada una, se tienen **dos argumentos**:  
-1. El primer argumento es el valor para el cual se quiere aproximar la función.  
-2. El segundo argumento es el número de términos de la serie para mejorar la precisión del resultado.
+1. El primer argumento **es el valor para el cual se quiere aproximar la función.**  
+2. El segundo argumento **es el número de términos de la serie para mejorar la precisión del resultado.**
 
 <br/>
 
