@@ -1,8 +1,4 @@
-{-|
-    Implementación de la Transformada Discreta del Coseno (DCT) en Haskell.
-    Cumple las condiciones: solo se usan +, -, *, / y cos como funciones externas.
-    Todo lo demás (raíz cuadrada, pi, longitud, índice, conversiones) se define dentro.
--}
+--Transformacion discreta del coseno 
 
 -- Conversión manual de Int a Float
 enteroAFlotante :: Int -> Float
@@ -61,7 +57,7 @@ calcularCoeficientes xs k n
 transformadaCoseno :: [Float] -> [Float]
 transformadaCoseno xs = calcularCoeficientes xs 0 (longitudLista xs)
 
--- Programa principal (con datos predeterminados)
+-- Ejecucion de codigo aqui
 main :: IO ()
 main = do
     let datos = [1,2,3,4,5,6,7,8,9,10] :: [Float]

@@ -121,5 +121,9 @@ greaterCheckerBool (x:xs) n c
 
 main :: IO ()
 main = do
-    --prueba con valores positivos
+
     print (order_asc [900,1,27,3,4,8,5, 16]) 
+
+    
+    
+    
