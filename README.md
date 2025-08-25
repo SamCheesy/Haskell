@@ -158,6 +158,7 @@ Cada prueba realizada al código tiene un comentario que indica exactamente qué
 
 <br/>
 <br/>
+<br/>
 
 <img width="52" height="52" alt="image" src="https://github.com/user-attachments/assets/b9c2b998-f06d-4677-8d18-623dcff7e475" align="left"/>
 
