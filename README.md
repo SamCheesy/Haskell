@@ -22,9 +22,9 @@
 <br/>
 
 
-
-## 1. Descripción
 <img width="52" height="52" alt="image" src="https://github.com/user-attachments/assets/eb00504a-6178-47d7-8b67-4d60980e853c" align="right"/>
+## 1. Descripción
+
 
 ### sobre Haskell
 
