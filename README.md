@@ -54,10 +54,7 @@ Ahora, se coloca otro espacio y otro número, **el cual será nuestro número fi
 <br/><br/>
 
 - [Función *order_asc* aquí](https://play.haskell.org/saved/EBe07v6z)
-
-<br/><br/>
-<img width="475" height="88" alt="image" src="https://github.com/user-attachments/assets/bfd08073-8778-4f4d-99d9-34c702cc3fb8" />
-<br/><br/>
+<img width="475" height="88" alt="image" src="https://github.com/user-attachments/assets/bfd08073-8778-4f4d-99d9-34c702cc3fb8" align="right"/>
 
 Para el correcto uso de la función *order_asc*, **se debe colocar la lista que queremos ordenar después de la función *order_asc*, mediante el uso de corchetes "[]",** **colocando dentro de los corchetes cuantos números quiera, colocando después de cada número una coma (,),** como se puede apreciar en la imagen.  
 
