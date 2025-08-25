@@ -40,7 +40,9 @@ Para la realización de estas funciones, **no hicimos uso de funciones fuera de 
 <br/>
 <br/>
 
-<img width="52" height="52" alt="image" src="https://github.com/user-attachments/assets/71207eed-8779-41b8-9c5c-4f1456231aa1" align="left"/>
+
+<img width="52" height="52" alt="image" src="https://github.com/user-attachments/assets/6c5c1ffa-4adb-4811-9c13-f3e14fb2cd7d" align="left"/>
+
 
 ## 2. Uso de funciones  
 
@@ -101,7 +103,8 @@ Para el correcto uso de cada una, se tienen **dos argumentos**:
 <br/>
 <br/>
 
-<img width="52" height="52" alt="image" src="https://github.com/user-attachments/assets/5b208b5b-0887-4182-aaca-261ed9e10612" align="left"/>
+<img width="52" height="52" alt="image" src="https://github.com/user-attachments/assets/d13c335e-93f8-4dd6-9b46-97294908ca57" align="left"/>
+
 
 
 ## 3. Resultados de pruebas en cada función
@@ -188,7 +191,8 @@ Los principales problemas que se presentaron mientras desarrollábamos el proyec
 <br/>
 <br/>
 
-<img width="52" height="52" alt="image" src="https://github.com/user-attachments/assets/e3744e95-89f0-4db3-b9ef-b537e52ad18c" align="left"/>
+<img width="52" height="52" alt="image" src="https://github.com/user-attachments/assets/4c4858ee-ba41-4c66-bc7f-cb326a4db92b" align="left"/>
+
 
 
 ## 5. Conclusiones
