@@ -63,10 +63,7 @@ La *salida* de este código será la lista con los números **mayores en las pri
 <br/><br/>
 
 - [Función *Transformación Discreta del Coseno* aquí](https://play.haskell.org/saved/nv9vKJdR)
-
-<br/><br/>
-<img width="506" height="114" alt="image" src="https://github.com/user-attachments/assets/dd58d379-af95-4e03-8010-cfc48a970d1f" />
-<br/><br/>
+<img width="506" height="114" alt="image" src="https://github.com/user-attachments/assets/dd58d379-af95-4e03-8010-cfc48a970d1f" align="left"/>
 
 Para el correcto uso de la función *Transformación Discreta del Coseno*, **primero debemos cambiar la variable `datos` (identificable en la imagen como `let datos = ...`) a la lista que queramos transformar, mediante el uso de corchetes "[]",** **colocando dentro de los corchetes cuantos números quiera, colocando después de cada número una coma (,),** como se puede apreciar en la imagen.  
 
