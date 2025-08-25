@@ -163,6 +163,8 @@ Cada prueba realizada al código tiene un comentario que indica exactamente qué
 
 ## 4. Problemas y soluciones durante el desarrollo del proyecto
 
+<br/>
+
 > [!IMPORTANT]  
 > **Cada problema planteado a continuación tendrá también su solución respectiva dentro del mismo texto.**
 
@@ -188,6 +190,8 @@ Los principales problemas que se presentaron mientras desarrollábamos el proyec
 
 
 ## 5. Conclusiones
+
+<br/>
 
 **A pesar que el desarrollo de este proyecto fue algo ciertamente retador**, debido a las limitaciones establecidas para el mismo, aprendimos muchas cosas nuevas en el camino.  
 
