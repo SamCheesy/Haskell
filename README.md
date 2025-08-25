@@ -23,6 +23,9 @@
 ### sobre Haskell
 Haskell es un **Lenguaje de Programación Funcional de propósito general, y funcionalmente puro**, con evaluación *no estricta* y memorizada, y fuerte tipificación estática. Su nombre se debe al lógico estadounidense **Haskell Curry**, debido a su aporte al cálculo lambda, el cual tiene gran influencia en este lenguaje.
 
+<img width="1200" height="848" alt="image" src="https://github.com/user-attachments/assets/ea521ba7-e4f6-408e-8c7e-db7dd2e56853" />
+
+
 ### sobre el proyecto
 El objetivo de nuestro proyecto es la implementación de las funciones *rem_data*, *order_asc*, *exponential function*, *cosine function*, *natural logarithm*, y *discrete cosine transform (DCT)*, **mediante el uso del lenguaje de programación Haskell**.  
 
