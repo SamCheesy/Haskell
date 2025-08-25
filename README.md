@@ -21,7 +21,7 @@
 <br/>
 <br/>
 
-<img aling ="left" width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/eb00504a-6178-47d7-8b67-4d60980e853c" />
+<img aling ="left" width="52" height="52" alt="image" src="https://github.com/user-attachments/assets/eb00504a-6178-47d7-8b67-4d60980e853c" />
 
 ## 1. Descripción
 
