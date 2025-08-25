@@ -42,7 +42,7 @@ Para la realización de estas funciones, **no hicimos uso de funciones fuera de 
 - [Función *rem_data* aquí](https://play.haskell.org/saved/ZyPpIO6D)
 
 <br/><br/>
-<img width="437" height="133" alt="image" src="https://github.com/user-attachments/assets/7c70f84d-1625-4730-a59c-9671694ff4bf" />
+<img width="437" height="133" alt="image" src="https://github.com/user-attachments/assets/7c70f84d-1625-4730-a59c-9671694ff4bf" align="left"/>
 <br/><br/>
 
 Para el correcto uso de este código *rem_data*, se debe colocar la lista a evaluar después de la función *rem_data*, mediante el uso de corchetes "[]", colocando dentro de los corchetes cuantos números quiera, colocando después de cada número una coma (,), como se puede apreciar en la imagen.  
