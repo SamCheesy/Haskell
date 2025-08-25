@@ -38,18 +38,17 @@ Para la realización de estas funciones, **no hicimos uso de funciones fuera de 
 
 > [!NOTE]  
 > En cada uno de los links a continuación, se podrán visualizar los códigos de cada función, junto con la función main, **en donde se ejecutará** el código. Cada función tiene parámetros distintos, por lo que, después de cada link, **se proveerá una imagen junto con indicaciones para el correcto uso de las funciones.**
+<br/><br/>
 
 - [Función *rem_data* aquí](https://play.haskell.org/saved/ZyPpIO6D)
-
-<br/><br/>
 <img width="437" height="133" alt="image" src="https://github.com/user-attachments/assets/7c70f84d-1625-4730-a59c-9671694ff4bf" align="left"/>
-Para el correcto uso de este código *rem_data*, se debe colocar la lista a evaluar después de la función *rem_data*, mediante el uso de corchetes "[]", colocando dentro de los corchetes cuantos números quiera, colocando después de cada número una coma (,), como se puede apreciar en la imagen.  
+Para el correcto uso de este código *rem_data*, **se debe colocar la lista a evaluar después de la función *rem_data*, mediante el uso de corchetes "[]", colocando dentro de los corchetes cuantos números quiera, colocando después de cada número una coma (,),** como se puede apreciar en la imagen.  
 
-Luego de la lista (es decir, después de cerrar corchetes) se debe colocar un espacio, y luego un número, el cual será nuestro número inicial, es decir, cualquier número menor a este será eliminado.  
+Luego de la lista (es decir, después de cerrar corchetes) **se debe colocar un espacio, y luego un número, el cual será nuestro número inicial, es decir, cualquier número menor a este será eliminado.**  
 
-En el caso de la imagen, nuestro intervalo será desde 4, por lo que cualquier número menor a este no será impreso.  
+En el caso de la imagen, nuestro intervalo será desde 4, por lo que cualquier número menor a este **no será impreso.**  
 
-Ahora, se coloca otro espacio y otro número, el cual será nuestro número final, por lo que cualquier número mayor a este será eliminado. En el caso de la lista de la imagen, se imprimirán todos los números entre 4 y 6.
+Ahora, se coloca otro espacio y otro número, **el cual será nuestro número final, por lo que cualquier número mayor a este será eliminado.** En el caso de la lista de la imagen, se imprimirán todos los números entre 4 y 6.
 
 <br/><br/>
 
