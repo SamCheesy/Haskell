@@ -156,7 +156,8 @@ Cada prueba realizada al código tiene un comentario que indica exactamente qué
 
 <img width="1192" height="324" alt="image" src="https://github.com/user-attachments/assets/f0a397b6-b0c8-4a16-92b4-dba1f765ee91" />
 
-<br/><br/>
+<br/>
+<br/>
 
 <img width="52" height="52" alt="image" src="https://github.com/user-attachments/assets/b9c2b998-f06d-4677-8d18-623dcff7e475" align="left"/>
 
@@ -184,7 +185,8 @@ Los principales problemas que se presentaron mientras desarrollábamos el proyec
 
   Todo esto terminó afectando nuestro rendimiento durante los últimos días. La solución para esto fue **distribuir muy bien nuestro tiempo** para cada cosa: el tiempo de estudio, el tiempo de clase, el tiempo de trabajo en el proyecto, el tiempo de realización de otros trabajos pendientes, etc.
 
-<br/><br/>
+<br/>
+<br/>
 
 <img width="52" height="52" alt="image" src="https://github.com/user-attachments/assets/e3744e95-89f0-4db3-b9ef-b537e52ad18c" align="left"/>
 
