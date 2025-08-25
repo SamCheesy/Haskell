@@ -71,7 +71,7 @@ La *salida* de este código será la lista con los números **mayores en las pri
 
 <br/><br/>
 
-- [Función *Transformación Discreta del Coseno* aquí](https://play.haskell.org/saved/nv9vKJdR)
+- [Función *Transformación Discreta del Coseno* aquí](https://play.haskell.org/saved/JVEg9QDl)
 <img width="506" height="114" alt="image" src="https://github.com/user-attachments/assets/dd58d379-af95-4e03-8010-cfc48a970d1f" align="left"/>
 
 Para el correcto uso de la función *Transformación Discreta del Coseno*, **primero debemos cambiar la variable `datos` (identificable en la imagen como `let datos = ...`) a la lista que queramos transformar, mediante el uso de corchetes "[]",** **colocando dentro de los corchetes cuantos números quiera, colocando después de cada número una coma (,),** como se puede apreciar en la imagen.  
@@ -85,7 +85,7 @@ Para el correcto uso de la función *Transformación Discreta del Coseno*, **pri
 
 <br/><br/>
 
-- [Funciones matemáticas usando series numéricas aquí](https://play.haskell.org/saved/pLQRnV43)
+- [Funciones matemáticas usando series numéricas aquí](https://play.haskell.org/saved/V9nibIet)
 <img width="490" height="87" alt="image" src="https://github.com/user-attachments/assets/c8176325-c7ab-4b34-8344-e6bfbd7708dd" align="right"/>
 
 En este código se encuentran las 3 funciones matemáticas requeridas para el problema, las cuales son: *Logaritmo natural*, *Coseno*, *Exponenciación*.  
