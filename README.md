@@ -41,6 +41,8 @@ Para la realización de estas funciones, **no hicimos uso de funciones fuera de 
 <br/>
 <br/>
 
+<img width="52" height="52" alt="image" src="https://github.com/user-attachments/assets/71207eed-8779-41b8-9c5c-4f1456231aa1" align="left"/>
+
 ## 2. Uso de funciones  
 
 > [!NOTE]  
