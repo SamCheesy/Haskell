@@ -17,6 +17,8 @@
 4. **Problemas y soluciones en el desarrollo** [(ir aquí)](#4-problemas-y-soluciones-durante-el-desarrollo-del-proyecto)
 5. **Conclusiones** [(ir aquí)](#5-conclusiones)
 
+<br/>
+<br/>
 
 ## 1. Descripción
 
@@ -33,6 +35,8 @@ El objetivo de nuestro proyecto es la implementación de las funciones *rem_data
 
 Para la realización de estas funciones, **no hicimos uso de funciones fuera de las fundamentales: +, -, /, *mod*, *fromEnum*, *toEnum*, *cos*, *fromIntegral*.**  
 
+<br/>
+<br/>
 
 ## 2. Uso de funciones  
 
@@ -77,10 +81,7 @@ Para el correcto uso de la función *Transformación Discreta del Coseno*, **pri
 <br/><br/>
 
 - [Funciones matemáticas usando series numéricas aquí](https://play.haskell.org/saved/pLQRnV43)
-
-<br/><br/>
-<img width="490" height="87" alt="image" src="https://github.com/user-attachments/assets/c8176325-c7ab-4b34-8344-e6bfbd7708dd" />
-<br/><br/>
+<img width="490" height="87" alt="image" src="https://github.com/user-attachments/assets/c8176325-c7ab-4b34-8344-e6bfbd7708dd" align="right"/>
 
 En este código se encuentran las 3 funciones matemáticas requeridas para el problema, las cuales son: *Logaritmo natural*, *Coseno*, *Exponenciación*.  
 
@@ -93,6 +94,8 @@ Para el correcto uso de cada una, se tienen **dos argumentos**:
 > [!WARNING]  
 > Entre más grande sea el valor del segundo argumento, más preciso será el resultado. Sin embargo, **cantidades muy grandes pueden afectar negativamente el rendimiento del programa.** 
 
+<br/>
+<br/>
 
 ## 3. Resultados de pruebas en cada función
 
