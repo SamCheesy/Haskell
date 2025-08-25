@@ -102,6 +102,9 @@ Para el correcto uso de cada una, se tienen **dos argumentos**:
 <br/>
 <br/>
 
+<img width="52" height="52" alt="image" src="https://github.com/user-attachments/assets/5b208b5b-0887-4182-aaca-261ed9e10612" align="left"/>
+
+
 ## 3. Resultados de pruebas en cada función
 
 A continuación, se presentan cada una de las funciones anteriormente mencionadas siendo probadas con distintos valores para asegurar su correcto funcionamiento frente a distintas situaciones.
@@ -155,6 +158,9 @@ Cada prueba realizada al código tiene un comentario que indica exactamente qué
 
 <br/><br/>
 
+<img width="52" height="52" alt="image" src="https://github.com/user-attachments/assets/b9c2b998-f06d-4677-8d18-623dcff7e475" align="left"/>
+
+
 ## 4. Problemas y soluciones durante el desarrollo del proyecto
 
 > [!IMPORTANT]  
@@ -177,6 +183,9 @@ Los principales problemas que se presentaron mientras desarrollábamos el proyec
   Todo esto terminó afectando nuestro rendimiento durante los últimos días. La solución para esto fue **distribuir muy bien nuestro tiempo** para cada cosa: el tiempo de estudio, el tiempo de clase, el tiempo de trabajo en el proyecto, el tiempo de realización de otros trabajos pendientes, etc.
 
 <br/><br/>
+
+<img width="52" height="52" alt="image" src="https://github.com/user-attachments/assets/e3744e95-89f0-4db3-b9ef-b537e52ad18c" align="left"/>
+
 
 ## 5. Conclusiones
 
